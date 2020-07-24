@@ -1,0 +1,20 @@
+C:\Users\ZYPC\source\repos\temp\temp\bin\Debug\temp.exe.config
+C:\Users\ZYPC\source\repos\temp\temp\bin\Debug\temp.exe
+C:\Users\ZYPC\source\repos\temp\temp\bin\Debug\temp.pdb
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.csprojAssemblyReference.cache
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.Form1.resources
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.Properties.Resources.resources
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.csproj.GenerateResource.cache
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.csproj.CoreCompileInputs.cache
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.exe
+C:\Users\ZYPC\source\repos\temp\temp\obj\Debug\temp.pdb
+E:\windows form\TIC TAC\temp\bin\Debug\temp.exe.config
+E:\windows form\TIC TAC\temp\bin\Debug\temp.exe
+E:\windows form\TIC TAC\temp\bin\Debug\temp.pdb
+E:\windows form\TIC TAC\temp\obj\Debug\temp.csprojAssemblyReference.cache
+E:\windows form\TIC TAC\temp\obj\Debug\temp.Form1.resources
+E:\windows form\TIC TAC\temp\obj\Debug\temp.Properties.Resources.resources
+E:\windows form\TIC TAC\temp\obj\Debug\temp.csproj.GenerateResource.cache
+E:\windows form\TIC TAC\temp\obj\Debug\temp.csproj.CoreCompileInputs.cache
+E:\windows form\TIC TAC\temp\obj\Debug\temp.exe
+E:\windows form\TIC TAC\temp\obj\Debug\temp.pdb
